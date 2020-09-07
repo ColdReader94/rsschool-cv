@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+	background: #ddf5ff;
+}
+
+img {
+	width: 200px;	
+	float: right;
+}
+
+.cv-block {
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 1.5rem;	
+}
+
+li {
+	padding-top: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #0d4e75;
+}
+
+a:hover {
+	color: #64a1c5;
+}
+
+
+
