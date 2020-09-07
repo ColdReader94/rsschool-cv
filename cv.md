@@ -6,9 +6,9 @@
 
 - **Skills:** HTML, CSS, Bootstrap, Sass, JavaScript, Git, Babel, npm, Maven, Jenkins, Wordpress, Joomla, MySQL, Adobe Photoshop, Adobe Flash, Figma, Google Analytics, Google Tags.
 
-- **Code examples:** https://github.com/ColdReader94/mysite, https://github.com/ColdReader94/bootstrap, https://github.com/ColdReader94/portal
+- **Code examples:** https://github.com/ColdReader94/mysite - automatic!, https://github.com/ColdReader94/bootstrap - automatic!, https://github.com/ColdReader94/portal - automatic!
 
-- **Experience:** https://behance.net/vadsdrvba7e, https://vasilishki.github.io, https://coldreader94.github.io/bootstrap, https://coldreader94.github.io/mysite
+- **Experience:** https://behance.net/vadsdrvba7e - automatic!, https://vasilishki.github.io - automatic!, https://coldreader94.github.io/bootstrap - automatic!, https://coldreader94.github.io/mysite - automatic!
 
 - **Education:** Bachalor`s degree in Belarusian State University (Faculty of History). Learned online on [HTML Academy](https://htmlacademy.ru), [learn.javascript.ru](https://learn.javascript.ru).
 
