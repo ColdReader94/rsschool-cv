@@ -1,20 +1,15 @@
-
 #Vadim, Sidorov#
 
-**E-mail:** vadsdrv@gmail.com, Discord: Vadim94#9774, Github: ColdReader94
+- **Contacts:** E-mail: vadsdrv@gmail.com, Discord: Vadim94#9774, Github: ColdReader94
 
-- **Summary** (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+- **Summary:** My goal is to became a web-developer. I wish to create sites and interfaces for apps. I want to learn React, Angular, Node.js
 
-**Skills:** HTML, CSS, Bootstrap, Sass, JavaScript, Git, Babel, npm, Maven, Jenkins, Wordpress, Joomla, MySQL, Adobe Photoshop, Adobe Flash, Figma
+- **Skills:** HTML, CSS, Bootstrap, Sass, JavaScript, Git, Babel, npm, Maven, Jenkins, Wordpress, Joomla, MySQL, Adobe Photoshop, Adobe Flash, Figma, Google Analytics, Google Tags.
 
-- **Code examples:**
+- **Code examples:** https://github.com/ColdReader94/mysite, https://github.com/ColdReader94/bootstrap, https://github.com/ColdReader94/portal
 
-- **Experience:** (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+- **Experience:** https://behance.net/vadsdrvba7e, https://vasilishki.github.io, https://coldreader94.github.io/bootstrap, https://coldreader94.github.io/mysite
 
-**Education:** Bachalor`s degree in Belarusian State University (Faculty of History). Learned online on [HTML Academy](https://htmlacademy.ru), [learn.javascript.ru](https://learn.javascript.ru).
+- **Education:** Bachalor`s degree in Belarusian State University (Faculty of History). Learned online on [HTML Academy](https://htmlacademy.ru), [learn.javascript.ru](https://learn.javascript.ru).
 
-**English level:**  intermediate (B1). Had a practice in conversation with english speakers on Upwork.
+- **English level:** Intermediate (B1). Had a practice in conversation with english speakers on Upwork.
