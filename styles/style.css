@@ -1,22 +1,29 @@
 body {
     margin: 0 auto;
     padding: 0;
-	background: #ddf5ff;
-}
-
-img {
-	width: 200px;	
-	float: right;
+	background: #f1eeda;
 }
 
 .cv-block {
 	max-width: 1024px;
+	padding: 15px;
 	margin: 0 auto;
 	font-size: 1.5rem;	
 }
 
+img {
+	display: block;
+	width: 30%;	
+	float: right;	
+}
+
+ul {
+	list-style-type: square;
+	color: #64a100;
+}
+
 li {
-	padding-top: 10px;
+	margin-top: 10px;
 }
 
 a {
@@ -28,5 +35,15 @@ a:hover {
 	color: #64a1c5;
 }
 
+a:active {
+	color: #64a100;
+}
 
+h1 {
+	
+	color: black;
+}
 
+h2 {
+	color: #215628;
+}
