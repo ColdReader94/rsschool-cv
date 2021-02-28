@@ -1,3 +1,20 @@
-TASK: https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css <br>
-DEPLOY: https://coldreader94.github.io/rsschool-cv/ <br>
-SOURCE CODE: https://github.com/ColdReader94/rsschool-cv/tree/rsschool-cv-html <br>
+1. Task: https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css
+2. Screenshot: 
+![CV](https://user-images.githubusercontent.com/54440204/109417910-a26dd000-79d6-11eb-9185-847fa86ea536.png)
+
+3. Deploy: https://coldreader94.github.io/rsschool-cv/
+4. Done 28.02.2021 / deadline 08.03.2021
+5. Score: 100 / 100
+   Самооценка:
+- вёрстка валидная +10  (Надпись "Document checking completed. No errors or warnings to show.")
+- вёрстка семантическая +10
+- В коде страницы присутствуют семантические теги HTML5: article, footer, header, main, section.
+   2 балла за каждый уникальный семантический тег HTML5, но не больше 10 баллов (итого 5 * 2 = 10 баллов)
+- используются заголовки h1-h6  (5 баллов за каждый уникальный заголовок)  +10
+- для оформления СV используются css-стили +10
+- контент размещается в блоке, который горизонтально центрируется на странице +10
+- на странице СV присутствует изображение, пропорции изображения не искажены, у изображения есть атрибут alt +10
+- контакты для связи и перечень навыков оформлены в виде списка ul > li +10
+- CV содержит контакты для связи, краткую информацию о себе, перечень навыков, примеры кода или выполненных проектов, информацию об образовании и уровне английского +10
+- CV выполнено на английском языке +10
+- выполнены требования к репозиторию: есть ссылка на задание, скриншот страницы СV, ссылка на деплой страницы CV на GitHub Pages, выполнена самооценка +10
